@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.tela1 {
+  background-color: hotpink;
+  height: 200px;
+  line-height: 200px;
+}
+
+.tela2 {
+  background-color: greenyellow;
+  height: 200px;
+  line-height: 200px;
+}
